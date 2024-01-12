@@ -14,6 +14,20 @@
 ![image](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/9d0dac58-f7fc-4e07-9ef7-a7c4ed94b3b5)
 و هیج مشکلی وجود ندارد.
 ## بخش دوم
-برای این بخش، الگوریتمی که در نظر گرفتیم، الگوریتم فیبوناچی است. ابتدا به روش نامناسبی این الگورتیم را پیاده سازی می کنیم.
+برای این بخش، الگوریتمی که در نظر گرفتیم، الگوریتم فیبوناچی است. ابتدا به روش نامناسبی این الگورتیم را پیاده سازی می کنیم. به شکل زیر (ورودی الگوریتم در تمامی عکس های ۱۰۰۰ است):
+![image](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/5283bbcc-f290-4a2d-9694-bee7049281d8)
+پروفایل میکنیم تا اوضاع بد را بررسی کنیم:
+![image](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/3c874a60-2ea2-4152-b832-2322e14dd75a)
+
+حال راه مناسب را پیاده سازی میکنیم.
+![image](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/6407b448-1ae2-483a-b16a-ee4fbc10fe29)
+سپس مانیتور میکنیم.
+![image](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/1c046591-5ee5-4c9f-beb1-8609106483c8)
+![image](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/0296d67d-7c59-4d4f-85f1-17aebefeffde)
 
 
+و مشکلی وجود ندارد. اگر هم با حالت قبل مقایسه کنیم(در تصویر زیر تازه الگوریتم هنوز پایان نیافته است)
+![image](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/b1d798b8-f700-4b0e-a983-5bf6fa703947)
+![Screenshot from 2024-01-12 21-37-31](https://github.com/hamidrezayaghobi/SEL_week8/assets/59170724/3e2ffdb9-1595-4616-ad9f-f165528b2ff6)
+
+ متوجه تفاوت خواهیم شدش.
